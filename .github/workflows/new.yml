@@ -10,4 +10,4 @@ jobs:
      - users: actions/checkout@v4
 
      - name:  Run a simple gittub action
-     - run:  echo "this workflow run successfully for a particular action" 
+       run:  echo "this workflow run successfully for a particular action" 
